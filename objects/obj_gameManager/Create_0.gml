@@ -1,4 +1,4 @@
 global.selectedChar = noone;
-
-script_execute(scr_prepareMap());
-script_execute(scr_mapBuilder());
+define_macros();
+scr_prepareMap();
+scr_mapBuilder();

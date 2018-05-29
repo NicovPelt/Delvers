@@ -1,2 +1,0 @@
-reveal = false;
-identify = false;

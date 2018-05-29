@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "2b99dc24-483a-48d7-9c1d-f8b16ec30b08",
+            "Value": {
+                "id": "3722cac7-cff0-4445-aa1e-88828dbb08ad",
+                "resourcePath": "scripts\\define_macros\\define_macros.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "2ba89dec-0c17-461e-8733-15e282469a44",
             "Value": {
                 "id": "e0d91875-2afc-48e6-9fba-faafe330c819",
@@ -303,14 +311,6 @@
             }
         },
         {
-            "Key": "758d2613-93ff-4b54-a89a-baa9436c831a",
-            "Value": {
-                "id": "3abd15fa-c98b-4c34-b9cf-92914c9405ae",
-                "resourcePath": "rooms\\rm_map\\rm_map.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "76a00050-6160-4dbd-8bdd-719264bee4f2",
             "Value": {
                 "id": "31e9f7fe-01dd-4d6f-b788-f2300dd7a932",
@@ -327,27 +327,11 @@
             }
         },
         {
-            "Key": "77db3959-9b37-40f4-bfc0-4d387c665178",
-            "Value": {
-                "id": "390b2f12-25f3-4987-b662-d9e5af52ac2b",
-                "resourcePath": "objects\\obj_stone_tile\\obj_stone_tile.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "784480ec-1be1-4997-b175-5e5e769661ef",
             "Value": {
                 "id": "0972f078-3d5b-4fd4-9f18-8dfbc3c4b17b",
                 "resourcePath": "sprites\\spr_flora_unknown\\spr_flora_unknown.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "7cc4f6fb-d5a0-4524-b8db-47c373672a44",
-            "Value": {
-                "id": "a677581a-49b2-4425-b6a6-9ed63f8a79dd",
-                "resourcePath": "views\\7cc4f6fb-d5a0-4524-b8db-47c373672a44.yy",
-                "resourceType": "GMFolder"
             }
         },
         {
@@ -527,14 +511,6 @@
             }
         },
         {
-            "Key": "c321bbc0-2644-46c0-bbb9-b0ec7444f485",
-            "Value": {
-                "id": "359c57da-2a29-4b30-ac14-b850b69e6c6a",
-                "resourcePath": "views\\c321bbc0-2644-46c0-bbb9-b0ec7444f485.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "c5f2505e-739b-40cf-ba03-f0dfd6a776ce",
             "Value": {
                 "id": "f9f309be-6ac6-46fb-b481-29837f9cf456",
@@ -548,14 +524,6 @@
                 "id": "cccdac5f-0e53-40b2-9209-2e61b07c56d8",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
-            }
-        },
-        {
-            "Key": "cf61f620-a1e6-464e-bcdb-da91c94cf8e7",
-            "Value": {
-                "id": "b93434d9-6398-47ab-824e-48a0787b4a10",
-                "resourcePath": "objects\\obj_parent_tile\\obj_parent_tile.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -599,22 +567,6 @@
             }
         },
         {
-            "Key": "ee0b118d-ca88-4a6e-a1f2-ae4860c6cf73",
-            "Value": {
-                "id": "473ac87c-0d30-4dc3-8993-23d61b563bff",
-                "resourcePath": "objects\\obj_small_cactus\\obj_small_cactus.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "efa23897-6a10-4f7e-b8bf-5a950a58e371",
-            "Value": {
-                "id": "ad57216e-2a47-4dc7-828b-b637cacda2dd",
-                "resourcePath": "objects\\obj_large_cactus\\obj_large_cactus.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "efa5c1a6-3ad9-466b-be1b-11b912b27c57",
             "Value": {
                 "id": "9919061d-79f7-4380-8418-f340329c6685",
@@ -628,14 +580,6 @@
                 "id": "c4033c86-9be4-40ce-b187-722cbdc23a70",
                 "resourcePath": "scripts\\change_camera_mode\\change_camera_mode.yy",
                 "resourceType": "GMScript"
-            }
-        },
-        {
-            "Key": "f3a6bcc2-1f38-46cd-b93a-887a7f7d9dce",
-            "Value": {
-                "id": "8581a2f2-96d6-4482-bfc9-2b0c34027841",
-                "resourcePath": "objects\\obj_grass_tile\\obj_grass_tile.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -682,7 +626,8 @@
         "3cba285c-5f68-4193-9372-3bc537d4135d",
         "3167ee7b-53e7-4c83-b3f3-1ab7e723f575",
         "2ba89dec-0c17-461e-8733-15e282469a44",
-        "f0b4811a-fc3f-4a52-af4a-2389361f6914"
+        "f0b4811a-fc3f-4a52-af4a-2389361f6914",
+        "2b99dc24-483a-48d7-9c1d-f8b16ec30b08"
     ],
     "tutorial": ""
 }

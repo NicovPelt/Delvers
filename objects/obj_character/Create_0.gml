@@ -2,6 +2,6 @@
 skills = ds_map_create();
 
 //Set the characters sprites
-spr_idle = -1;
-spr_walk = -1;
+spr_idle = spr_character;
+spr_walk = spr_character;
 //etc...
