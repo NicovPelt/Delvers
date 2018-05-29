@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "1fd63351-32c6-435d-94ec-5754def3c306",
+            "Value": {
+                "id": "d8ad5f8d-a331-4728-95ab-ef7331cbf57e",
+                "resourcePath": "objects\\obj_camera\\obj_camera.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "251c16c5-675e-4880-aed3-abcb327b68c1",
             "Value": {
                 "id": "4d7fabbe-e9a9-4373-99d4-a18e52d5c42a",
@@ -220,6 +228,14 @@
                 "id": "bc9e8a6e-d574-4017-b9e5-d0d8f0e1550b",
                 "resourcePath": "objects\\obj_character\\obj_character.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5d267f87-d5e7-4286-add7-f53bb3e57a8b",
+            "Value": {
+                "id": "7fae9146-7a9f-41f3-9587-af1015db48bc",
+                "resourcePath": "views\\5d267f87-d5e7-4286-add7-f53bb3e57a8b.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -599,6 +615,22 @@
             }
         },
         {
+            "Key": "efa5c1a6-3ad9-466b-be1b-11b912b27c57",
+            "Value": {
+                "id": "9919061d-79f7-4380-8418-f340329c6685",
+                "resourcePath": "sprites\\spr_test_tile\\spr_test_tile.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f0b4811a-fc3f-4a52-af4a-2389361f6914",
+            "Value": {
+                "id": "c4033c86-9be4-40ce-b187-722cbdc23a70",
+                "resourcePath": "scripts\\change_camera_mode\\change_camera_mode.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "f3a6bcc2-1f38-46cd-b93a-887a7f7d9dce",
             "Value": {
                 "id": "8581a2f2-96d6-4482-bfc9-2b0c34027841",
@@ -649,7 +681,8 @@
         "76a00050-6160-4dbd-8bdd-719264bee4f2",
         "3cba285c-5f68-4193-9372-3bc537d4135d",
         "3167ee7b-53e7-4c83-b3f3-1ab7e723f575",
-        "2ba89dec-0c17-461e-8733-15e282469a44"
+        "2ba89dec-0c17-461e-8733-15e282469a44",
+        "f0b4811a-fc3f-4a52-af4a-2389361f6914"
     ],
     "tutorial": ""
 }

@@ -1,0 +1,1 @@
+change_camera_mode(cammode.move_to_follow_object, id);
