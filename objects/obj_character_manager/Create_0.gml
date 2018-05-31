@@ -2,12 +2,10 @@
 
 characters = ds_map_create();
 
-create_character("Charles Darwin", 3, 5);
-modify_skill("Charles Darwin", "Biology", 2, false);
+//Create a test character
+test_name = "Charles Darwin";
+test_name2 = "Lewis";
+display_name = test_name;
 
-test_map = ds_map_create();
-ds_map_add(test_map, "one", 1);
-
-map_ref = test_map;
-ds_map_add(map_ref, "two", 2);
-
+create_character(test_name, 3, 5);
+modify_skill(test_name, "Biology", 2, false);

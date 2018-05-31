@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "04a5399c-254a-4eb0-92d3-13f6966cfbe3",
+            "Value": {
+                "id": "fc6e8228-b8f4-4aed-8be6-b98d26a5dea7",
+                "resourcePath": "scripts\\remove_character\\remove_character.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "078c7c17-fe95-4bd3-9e19-4e5bad058223",
             "Value": {
                 "id": "fb760668-9edc-4a99-88fc-8a8bf5c637e0",
@@ -223,6 +231,22 @@
             }
         },
         {
+            "Key": "3e0e53f7-433b-478e-abde-430c3267bb1a",
+            "Value": {
+                "id": "80e6b96e-5800-4a3b-a622-79d64ef3a0c3",
+                "resourcePath": "rooms\\rm_tile_based\\rm_tile_based.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "47358d41-a5c3-4bae-935b-74b0a8695cdb",
+            "Value": {
+                "id": "b66c1630-df9c-46ab-ad5e-ae9c345aa4b6",
+                "resourcePath": "scripts\\rename_character\\rename_character.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "485b7a10-2571-428b-841f-c2d161d926b4",
             "Value": {
                 "id": "d8f1d812-8747-4a62-acb0-c5779d05b7e4",
@@ -252,6 +276,14 @@
                 "id": "bc9e8a6e-d574-4017-b9e5-d0d8f0e1550b",
                 "resourcePath": "objects\\obj_character\\obj_character.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5b121243-f23f-430d-8801-422722744f35",
+            "Value": {
+                "id": "91463c9f-c2fb-49bf-9a00-64f0c84891d0",
+                "resourcePath": "scripts\\stat_value\\stat_value.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -315,6 +347,14 @@
             "Value": {
                 "id": "15fbd9c8-d7b0-468d-a6ef-812d781d4e43",
                 "resourcePath": "scripts\\scr_mapBuilder\\scr_mapBuilder.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "722f3726-e029-41cb-9a8a-29a2cde181c2",
+            "Value": {
+                "id": "85c9264f-ac32-41df-9223-963cfb1f7694",
+                "resourcePath": "scripts\\modify_stat\\modify_stat.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -670,7 +710,11 @@
         "2b99dc24-483a-48d7-9c1d-f8b16ec30b08",
         "d31c4eaa-0915-4e63-a3e8-1cb068868e31",
         "15bcc262-1c91-4be8-9523-7f27cb5d75a6",
-        "b2ff32c5-30d4-464d-a376-c8339738edb8"
+        "722f3726-e029-41cb-9a8a-29a2cde181c2",
+        "b2ff32c5-30d4-464d-a376-c8339738edb8",
+        "5b121243-f23f-430d-8801-422722744f35",
+        "47358d41-a5c3-4bae-935b-74b0a8695cdb",
+        "04a5399c-254a-4eb0-92d3-13f6966cfbe3"
     ],
     "tutorial": ""
 }
