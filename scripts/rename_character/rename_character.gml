@@ -2,6 +2,8 @@
 ///@arg character
 ///@arg new_name
 
+if(!ds_map_exists(obj_character_manager.characters, argument0)) exit;
+
 //Identify source and target destination
 var new_char = ds_map_create();
 var source = ds_map_find_value(obj_character_manager.characters, argument0);
