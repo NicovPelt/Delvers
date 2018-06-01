@@ -21,6 +21,6 @@ ds_map_add(stats, "name", argument0);
 ds_map_add(stats, "speed", argument1);
 ds_map_add(stats, "vision", argument2);
 var skills = ds_map_create();
-ds_map_add(stats, "skills", skills);
+ds_map_add_map(stats, "skills", skills);
 
-ds_map_add(obj_character_manager.characters, argument0, stats);
+ds_map_add_map(obj_character_manager.characters, argument0, stats);

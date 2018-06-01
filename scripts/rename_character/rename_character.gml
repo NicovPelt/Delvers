@@ -10,7 +10,7 @@ var source = ds_map_find_value(obj_character_manager.characters, argument0);
 
 //Copy content from source to target, add target to characters with new name
 ds_map_copy(new_char, source);
-ds_map_add(obj_character_manager.characters, argument1, new_char);
+ds_map_add_map(obj_character_manager.characters, argument1, new_char);
 ds_map_set(ds_map_find_value(obj_character_manager.characters, argument1), "name", argument1);
 
 //Remove old character information

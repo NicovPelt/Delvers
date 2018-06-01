@@ -1,1 +1,4 @@
-#macro TILE_SIZE = 16;
+#macro TILE_HEIGHT 32
+#macro TILE_WIDTH 32
+#macro GRID_XOFF TILE_WIDTH/2
+#macro GRID_YOFF TILE_HEIGHT/2
